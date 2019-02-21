@@ -1,8 +1,13 @@
 body {
   text-align: center;
+  background-color: rgb(255, 255, 255);
 }
 
 Hello {
   font-size: "14pt";
-  
+  font-family: Georgia, "times new roman", serif;
+}
+
+Tuxedo {
+  transform: rotate(90);
 }
