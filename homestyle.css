@@ -1,13 +1,41 @@
-body {
+#nav {
+  list-style-type: none;
+}
+
+#body {
   text-align: center;
   background-color: rgb(255, 255, 255);
 }
 
-Hello {
+#Hello {
   font-size: "14pt";
   font-family: Georgia, "times new roman", serif;
+  list-style-type: none;
 }
 
-Tuxedo {
-  transform: rotate(90);
+#Tuxedo {
+  background-color: rgb(196, 9, 15);
+  padding-top: "4px";
+}
+
+#dogs {
+  background-color: rgb(196, 9, 15);
+}
+
+#legs {
+  font-size: "25pt";
+  font-family: helvetica, sans-serif;
+  font-weight: bold;
+}
+
+#siblings {
+  text-align: right;
+}
+
+#children {
+  text-align: left;
+}
+
+#footer {
+  text-align: center;
 }
