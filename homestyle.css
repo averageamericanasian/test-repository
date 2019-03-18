@@ -10,7 +10,6 @@
 #Hello {
   font-size: "14pt";
   font-family: Georgia, "times new roman", serif;
-  list-style-type: none;
 }
 
 #Tuxedo {
@@ -18,7 +17,7 @@
   padding-top: "4px";
 }
 
-#dogs {
+#pets {
   background-color: rgb(196, 9, 15);
 }
 
