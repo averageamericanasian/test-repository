@@ -1,33 +1,24 @@
-#nav {
+red=D02D0A
+
+#nav li {
   list-style-type: none;
+  text-align: center;
 }
 
-#body {
-  text-align: center;
+#body p {
+  text-align: left;
   background-color: rgb(255, 255, 255);
 }
 
-#Hello {
-  font-size: "14pt";
+#avamas {
+  text-align: center;
   font-family: Georgia, "times new roman", serif;
+  font-size: "20pt";
 }
 
-#pets {
-  background-color: rgb(196, 9, 15);
-}
+#resume img {
+  align-items: center
 
-#legs {
-  font-size: "25pt";
-  font-family: helvetica, sans-serif;
-  font-weight: bold;
-}
-
-#siblings {
-  text-align: right;
-}
-
-#children {
-  text-align: left;
 }
 
 #footer {
